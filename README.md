@@ -1,2 +1,2 @@
 # PythonBasics
-Listagem de exercicios de conhecimentos sobre Python Básico.
+List of basic Python knowledge exercises.
